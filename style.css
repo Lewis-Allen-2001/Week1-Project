@@ -145,7 +145,7 @@ nav a:hover {
   text-decoration: none;
 }
 
-.post-meta__more:hover {
+.more:hover {
   background-color: #fff;
   color: #000;
 }
